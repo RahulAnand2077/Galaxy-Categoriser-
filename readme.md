@@ -1,1 +1,2 @@
-# Galaxy categorizer in the shapes either Elliptical or Spherical
+### Galaxy Categorizer 
+# Categorizes galaxy images in either Elliptical or Spherical shape
